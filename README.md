@@ -93,7 +93,7 @@ My focus is on writing maintainable code, building smooth user experiences, and 
   <a href="https://www.linkedin.com/in/syed-shaheer-ahmed-099592232/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Syed%20Shaheer%20Ahmed-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://shaheer-portfolio22.web.app/" target="_blank">
+  <a href="https://syedshaheerahmed.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
