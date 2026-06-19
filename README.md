@@ -87,9 +87,7 @@ My focus is on writing maintainable code, building smooth user experiences, and 
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="mailto:ashaheer667@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ashaheer667%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  
   <a href="https://www.linkedin.com/in/syed-shaheer-ahmed-099592232/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Syed%20Shaheer%20Ahmed-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
