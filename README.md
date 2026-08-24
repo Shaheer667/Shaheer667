@@ -230,6 +230,16 @@ Deploy and manage projects using modern platforms.
 
 <br><br>
 
+### Contribution activity
+
+![Sarthak's contribution graph](https://ghchart.rshah.org/ec4899/Shaheer667)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaheer667/Shaheer667/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaheer667/Shaheer667/output/github-snake-light.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Shaheer667/Shaheer667/output/github-snake.svg">
+</picture>
+
 ### Thanks for visiting my profile 👨‍💻
 
 Feel free to explore my repositories and connect with me.
