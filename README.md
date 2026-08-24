@@ -1,249 +1,241 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=200&section=header&text=Syed%20Shaheer%20Ahmed&fontSize=42&fontColor=F0F6FC&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20&descColor=8B949E" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=SYED%20SHAHEER%20AHMED&fontSize=36&fontColor=00FF41&fontAlignY=45&desc=%3E_%20FULL%20STACK%20DEVELOPER&descSize=16&descAlignY=72&descColor=8AFF9C" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%F0%9F%92%BB;Building+Scalable+Web+Applications+%E2%9A%A1;Frontend+%2B+Backend+%2B+Databases+%F0%9F%9A%80;Clean+Code.+Better+Experiences.+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1600&pause=500&color=00FF41&center=true&vCenter=true&width=850&lines=%24+initializing+developer+profile...;%24+loading+frontend+modules...+%5BOK%5D;%24+loading+backend+services...+%5BOK%5D;%24+connecting+databases...+%5BOK%5D;%24+access+granted.+Welcome+to+Shaheer's+terminal." />
 </a>
 
-<br><br>
+<br>
 
-<a href="https://github.com/Shaheer667">
-<img src="https://komarev.com/ghpvc/?username=Shaheer667&label=PROFILE+VIEWS&color=21262D&style=for-the-badge" />
-</a>
-
-<a href="https://github.com/Shaheer667?tab=followers">
-<img src="https://img.shields.io/github/followers/Shaheer667?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=161B22" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=Shaheer667&label=VISITORS&color=00FF41&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Shaheer667?label=FOLLOWERS&style=flat-square&logo=github&logoColor=00FF41&color=0D1117" />
 
 </div>
 
 ---
 
-## 👨‍💻 `$ whoami`
+## `root@shaheer:~$ ./boot.sh`
 
-I'm **Syed Shaheer Ahmed**, a dedicated **Full Stack Developer** passionate about creating modern, scalable, and high-performing web applications.
+```bash
+[+] Booting developer environment...
 
-I enjoy working across both **frontend and backend**, turning ideas into complete digital products that are responsive, efficient, and user-friendly.
+[✓] Identity loaded
+[✓] Frontend modules initialized
+[✓] Backend services online
+[✓] Database connection established
+[✓] Deployment tools ready
 
-My main focus is on:
-
-* 🧩 Writing clean and maintainable code
-* ⚡ Building fast and responsive user experiences
-* 🛠️ Developing reliable backend systems
-* 🚀 Creating scalable full-stack applications
-* 📚 Continuously improving my development skills
-
----
-
-## ⚙️ `$ tech-stack`
-
-### 🎨 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux&theme=dark" />
-</p>
-
-### ⚙️ Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
-</p>
-
-### 🧰 Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,netlify&theme=dark" />
-</p>
+-----------------------------------------
+ SYSTEM STATUS : ONLINE
+ ACCESS LEVEL  : FULL STACK
+ USER          : SYED SHAHEER AHMED
+-----------------------------------------
+```
 
 ---
 
-## 🚀 `$ what-i-do`
+## `root@shaheer:~$ whoami`
 
-<table>
-<tr>
+```text
+Name        : Syed Shaheer Ahmed
+Role        : Full Stack Developer
+Status      : Building cool things...
+Environment : Web Development
+Focus       : Clean • Scalable • Efficient
+```
 
-<td width="50%" valign="top">
+I'm a dedicated **Full Stack Developer** passionate about building modern, scalable, and high-performing web applications.
 
-### 🎨 Frontend Development
+I work across both **frontend and backend**, turning ideas into complete digital products that are responsive, reliable, and user-friendly.
 
-Build responsive and interactive interfaces using modern frontend technologies.
+```bash
+$ cat developer_mindset.txt
 
-* Responsive Layouts
-* Modern UI Development
-* Component-Based Architecture
-* Smooth User Experience
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Backend Development
-
-Develop secure and scalable backend systems and APIs.
-
-* REST APIs
-* Authentication
-* Backend Architecture
-* Server-side Logic
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚀 Full Stack Applications
-
-Develop complete applications from idea to deployment.
-
-**Frontend → Backend → Database → Deployment**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🗄️ Database Integration
-
-Build and integrate reliable database solutions.
-
-* MongoDB
-* MySQL
-* Firebase
-* Data Management
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚡ Performance Optimization
-
-Improve applications for:
-
-* Speed
-* Performance
-* Scalability
-* Maintainability
-
-</td>
-
-<td width="50%" valign="top">
-
-### ☁️ Deployment
-
-Deploy and manage projects using modern platforms.
-
-* Vercel
-* Netlify
-* GitHub
-
-</td>
-
-</tr>
-</table>
+> Write clean code.
+> Build smooth experiences.
+> Create reliable systems.
+> Solve real-world problems.
+> Keep learning.
+```
 
 ---
 
-## 🌱 `$ currently-learning`
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Advanced%20Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Backend%20Architecture-161B22?style=for-the-badge&logo=nodedotjs&logoColor=58A6FF" />
-
-<img src="https://img.shields.io/badge/API%20Optimization-21262D?style=for-the-badge&logo=postman&logoColor=58A6FF" />
-
-<img src="https://img.shields.io/badge/Scalable%20Apps-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Clean%20Code-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" />
-
-</p>
-
----
-
-## 📊 `$ github --stats`
+## `root@shaheer:~$ ls ./tech-stack`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shaheer667&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+### `./frontend`
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Shaheer667&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=F0F6FC&dates=8B949E&sideLabels=C9D1D9" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux&theme=dark" />
 
 <br><br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheer667&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+### `./backend`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+<br><br>
+
+### `./database`
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
+
+<br><br>
+
+### `./tools`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,netlify&theme=dark" />
 
 </div>
 
 ---
 
-## 🤝 `$ connect`
+## `root@shaheer:~$ cat capabilities.log`
+
+```bash
+[01] Frontend Development
+     ├── Responsive Interfaces
+     ├── Interactive UI
+     ├── Modern JavaScript
+     └── Component Architecture
+
+[02] Backend Development
+     ├── REST APIs
+     ├── Authentication
+     ├── Server-side Logic
+     └── Scalable Architecture
+
+[03] Full Stack Development
+     ├── Frontend
+     ├── Backend
+     ├── Database
+     └── Deployment
+
+[04] Performance Optimization
+     ├── Speed
+     ├── Scalability
+     ├── Maintainability
+     └── User Experience
+
+[05] Deployment
+     ├── Vercel
+     ├── Netlify
+     └── GitHub
+```
+
+---
+
+## `root@shaheer:~$ ./current-learning.sh`
+
+```yaml
+learning_queue:
+  - Advanced Next.js Patterns
+  - Backend Architecture
+  - API Optimization
+  - Scalable Application Design
+  - Clean Code Practices
+  - Better Project Structure
+
+status: ACTIVE
+progress: ███████░░░ 70%
+mode: CONTINUOUS_LEARNING
+```
+
+---
+
+## `root@shaheer:~$ github --stats`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shaheer667&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Shaheer667&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&sideLabels=C9D1D9" />
+
+<br><br>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheer667&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" />
+
+</div>
+
+---
+
+## `root@shaheer:~$ ping social-network`
+
+```bash
+PING linkedin.com ................. CONNECTED
+PING portfolio .................... CONNECTED
+PING github.com ................... CONNECTED
+
+3 connections active.
+0 connections lost.
+```
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/syed-shaheer-ahmed-099592232/">
-<img src="https://img.shields.io/badge/LinkedIn-Syed%20Shaheer%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/%3E_LinkedIn-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D1117&color=161B22" />
 </a>
 
 <a href="https://syedshaheerahmed.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-161B22?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/%3E_Portfolio-OPEN-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF41&labelColor=0D1117&color=161B22" />
 </a>
 
 <a href="https://github.com/Shaheer667">
-<img src="https://img.shields.io/badge/GitHub-Shaheer667-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/%3E_GitHub-FOLLOW-0D1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0D1117&color=161B22" />
 </a>
 
 </div>
 
 ---
 
-## 💭 `$ developer-mindset`
+## `root@shaheer:~$ cat philosophy.txt`
 
-<div align="center">
-
-> ### “Great web development is not just about writing code —
->
-> ### it's about building smooth, useful, and meaningful digital experiences.”
-
-</div>
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   Great development isn't just about writing code.         │
+│                                                             │
+│   It's about building smooth, useful and meaningful        │
+│   digital experiences.                                     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
+## `root@shaheer:~$ systemctl status developer`
+
+```bash
+● developer.service - Shaheer Development Environment
+
+   Loaded: loaded
+   Active: active (running)
+   Status: "Building modern web experiences"
+
+   Tasks:    Code • Build • Learn • Repeat
+   Memory:   Unlimited curiosity
+   CPU:      Caffeine powered
+   Uptime:   Still coding...
+```
+
 <div align="center">
 
-### ⚡ CODE • BUILD • LEARN • REPEAT
+<br>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING%20COOL%20THINGS-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF41?style=for-the-badge&logo=linux&logoColor=000000" />
+
+<img src="https://img.shields.io/badge/ACCESS-GRANTED-00FF41?style=for-the-badge&logo=hackthebox&logoColor=000000" />
 
 <br><br>
 
-### Contribution activity
+```text
+> SESSION COMPLETE
+> Thanks for visiting.
+> Feel free to explore the repositories.
+> _
+```
 
-![Sarthak's contribution graph](https://ghchart.rshah.org/ec4899/Shaheer667)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaheer667/Shaheer667/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaheer667/Shaheer667/output/github-snake-light.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Shaheer667/Shaheer667/output/github-snake.svg">
-</picture>
-
-### Thanks for visiting my profile 👨‍💻
-
-Feel free to explore my repositories and connect with me.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:21262D,50:161B22,100:0D1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=70&section=footer" />
 
 </div>
